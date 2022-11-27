@@ -6,6 +6,12 @@
 
 6款常見歐文(英文)藝術字體介紹與應用[link](https://creatynes.com/art-deco-font/)
 
+ASCII維基百科[link](https://zh.wikipedia.org/zh-tw/ASCII)
+
+ASCII碼介紹[link](http://kevin.hwai.edu.tw/~kevin/material/JAVA/Sample2016/ASCII.htm)
+
+大五碼維基百科[link](https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BA%94%E7%A2%BC)
+
 報告內使用字體:
 --
 
