@@ -12,6 +12,10 @@ ASCII碼介紹[link](http://kevin.hwai.edu.tw/~kevin/material/JAVA/Sample2016/AS
 
 大五碼維基百科[link](https://zh.wikipedia.org/wiki/%E5%A4%A7%E4%BA%94%E7%A2%BC)
 
+大五碼查詢[link](https://ace33022.github.io/big5code/)
+
+萬國碼維基百科[link](https://zh.wikipedia.org/zh-tw/Unicode)
+
 報告內使用字體:
 --
 
