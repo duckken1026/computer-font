@@ -16,6 +16,8 @@ ASCII碼介紹[link](http://kevin.hwai.edu.tw/~kevin/material/JAVA/Sample2016/AS
 
 萬國碼維基百科[link](https://zh.wikipedia.org/zh-tw/Unicode)
 
+格式大戰：你用的字型檔，是巨頭們大戰後的產物[link](https://blog.justfont.com/2017/07/opentype-wars/)
+
 報告內使用字體:
 --
 
